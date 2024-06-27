@@ -30,3 +30,7 @@ This project allows you to search for Github users and view their profiles along
 ![Screenshot 1](screenshot1.png)
 ![Screenshot 2](screenshot2.png)
 
+## Authors :black_nib:
+
+- **Yassine Abbou** <[yassine4real](https://github.com/yassine4real)>
+
