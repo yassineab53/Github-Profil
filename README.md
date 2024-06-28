@@ -23,7 +23,7 @@ This project allows you to search for Github users and view their profiles along
 
 ## Demo
 
-[Link to live demo](https://yassine4real.github.io/) 
+[Link to live demo](https://yassine4real.github.io/Github-Profil/) 
 
 ## Screenshots
 
