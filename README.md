@@ -23,7 +23,7 @@ This project allows you to search for Github users and view their profiles along
 
 ## Demo
 
-[Link to live demo](https://yassine4real.github.io/Github-Profil/) 
+[Link to live demo](https://yassineab53.github.io/Github-Profil/) 
 
 ## Screenshots
 
@@ -32,5 +32,5 @@ This project allows you to search for Github users and view their profiles along
 
 ## Authors :black_nib:
 
-- **Yassine Abbou** <[yassine4real](https://github.com/yassine4real)>
+- **Yassine Abbou** <[yassine4real](https://github.com/yassineab53)>
 
