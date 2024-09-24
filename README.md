@@ -32,5 +32,5 @@ This project allows you to search for Github users and view their profiles along
 
 ## Authors :black_nib:
 
-- **Yassine Abbou** <[yassine4real](https://github.com/yassineab53)>
+- **Yassine Abbou** <[yassineab53](https://github.com/yassineab53)>
 
